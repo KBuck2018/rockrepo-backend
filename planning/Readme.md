@@ -16,9 +16,40 @@ Have you ever made plans with friends, only to not know where you were going. Do
 * As a user, I want to edit my routes, so that I can make off ones I've completed.
 * As a user, I want to create my own profile, so that I can view my information.
 
-## Technology Used
+## Backend Technology Used
 
 * MongoDB
 * Express
 * Nodejs
 * JWT-Simple
+
+## Front-End Technology Used
+
+* Reactjs
+* React-Table
+* Leaflet
+
+## MVP
+
+* Ability to see rock climbs around me
+
+## Bronze
+
+* Ability to search the map for local spots and get directions
+* Add comments to rock climbs
+* Ability to log in
+
+## Silver
+
+* User page that has ToDo list of climbs
+* Add new climbs to app
+
+## Gold
+
+* Display local climbs within map
+* Twitter API feed of popular climbing news
+
+## Platinum
+
+* Messaging system
+* Emailing system
